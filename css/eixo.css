@@ -1,0 +1,145 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    margin: 0 auto;
+}
+
+ul{
+    padding: 0px !important; 
+}
+
+.preta{
+    background-color: #000000;
+}
+
+.logo{
+    width: 10px ;
+}
+
+.livro{
+    background-color: beige;
+    width: 980px;
+    margin: 0 auto;
+}
+
+.menu-url{
+    border-bottom: 2px solid #ffffff;
+}
+
+.menu ul li :hover{
+    border-bottom: 2px solid #00bac6 ;
+}
+
+.menu ul li a :hover{
+    color: #00bac6;
+}
+
+.menu ul li{
+    display: inline-block;
+    color: darkslategray;
+    margin-left: 15px;
+    height: 50px;
+}
+.menu ul li a{
+    color: darkslategray;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.menu{
+width: 100%; 
+float: left;
+}
+
+.coluna{
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.fotos{
+    position: relative;
+}
+
+button.slick-prev{
+    font-size: 0px;
+    border: none;
+}
+
+button.slick-next{
+    font-size: 0px;
+    border: none;
+}
+
+.slick-initialized{
+    overflow: hidden;
+}
+
+.texto{
+    text-align: center;
+}
+
+.texto h1{
+    color: #646464;
+}
+
+.texto p{
+    color: #9a9a9a
+}
+
+.criadores{
+    text-align: left;
+}
+
+.criadores p{
+    color: #9a9a9a;
+}
+
+.criadoresr{
+    display: inline;
+}
+
+.criadoresr p{
+    color: #9a9a9a
+}
+
+.branca{
+    background-color: white;
+    height: 50px;
+}
+
+.branca h1{
+    align-items: center;
+}
+
+.cinza{
+    background-color: #646464;
+}
+
+.cinza p{
+    color: white;
+}
+
+.oq{
+    align-items: center;
+}
+
+.oq p{
+    color: #000000;
+}
+
+.mes{
+    margin-bottom: 90px;
+
+}
+
+.topico{
+    text-align: left;
+
+}
+
+@media screen and (min-width: 1366px) and (max-width: 1920px) {
+    body{
+        background-color: whitesmoke;
+    }
+}
