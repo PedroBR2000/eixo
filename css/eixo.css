@@ -80,19 +80,19 @@ button.slick-next{
 }
 
 .texto h1{
-    color: #646464;
+    color: black
 }
 
 .texto p{
-    color: #9a9a9a
+    color: black
 }
 
 .criadores{
-    text-align: left;
+    text-align: left
 }
 
 .criadores p{
-    color: #9a9a9a;
+    color: black;
 }
 
 .criadoresr{
@@ -100,7 +100,7 @@ button.slick-next{
 }
 
 .criadoresr p{
-    color: #9a9a9a
+    color:   #000000
 }
 
 .branca{
@@ -135,10 +135,14 @@ button.slick-next{
 
 .topico{
     text-align: left;
-
 }
 
-@media screen and (min-width: 1366px) and (max-width: 1920px) {
+.conteudo{
+    color: black;
+}
+
+
+@media screen and (min-width: 960px) and (max-width: 1920px) {
     body{
         background-color: whitesmoke;
     }
