@@ -140,4 +140,6 @@ float: left;
     color: black;
 }
 
-
+@media screen and (max-width:720 ){
+                font-size: 18px;
+            }
