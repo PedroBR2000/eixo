@@ -98,6 +98,10 @@ float: left;
     align-items: center;
 }
 
+.cinza2{
+   heigt:90px
+}
+
 .cinza{
     background-color: #646464;
     height: 412px;
