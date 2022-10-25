@@ -114,6 +114,7 @@ float: left;
 
 .cinza p{
     color: white;
+    font-size: clamp(1em, 1em + 1vw, 1.25);
 
 }
 
@@ -141,7 +142,7 @@ float: left;
 
 .topico{
     text-align: left;
-    font-size: clamp(1em, 1em + 1vw, 1.25
+    font-size: clamp(1em, 1em + 1vw, 1.25);
 }
 
 .conteudo{
