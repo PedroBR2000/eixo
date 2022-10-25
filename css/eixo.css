@@ -123,6 +123,7 @@ float: left;
 
 .oq p{
     color: #000000;
+    font-size: clamp(1em, 1em + 1vw, 1.25);
 }
 
 .mes{
@@ -140,10 +141,12 @@ float: left;
 
 .topico{
     text-align: left;
+    font-size: clamp(1em, 1em + 1vw, 1.25
 }
 
 .conteudo{
     color: black;
+     font-size: clamp(1em, 1em + 1vw, 1.25);
 
 }
 
