@@ -76,6 +76,7 @@ float: left;
 
 .texto p{
     color: black
+    font-size: clamp(1em, 1em + 1vw, 1.25);
 }
 
 .criadores{
@@ -92,6 +93,7 @@ float: left;
 
 .criadoresr p{
     color:   #000000
+    font-size: clamp(1em, 1em + 1vw, 1.25);
 }
 
 .branca{
