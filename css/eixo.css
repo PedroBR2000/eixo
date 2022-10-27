@@ -149,7 +149,7 @@ float: left;
 
 .conteudo{
     color: black;
-     font-size: clamp(1em, 1em + 1vw, 1.50);
+     font-size: clamp(1em, 1em + 1vw, 1);
 
 }
 
