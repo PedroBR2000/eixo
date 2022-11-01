@@ -132,6 +132,10 @@ float: left;
     margin-top: 90px;
 }
 
+.outubro{
+    margin-top: 90px;
+}
+
 .topico{
     text-align: left;
     font-size: clamp(1em, 1em + 1vw, 1.25);
