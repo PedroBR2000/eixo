@@ -1,3 +1,4 @@
+
 <html>
     <head>
         <title>Projeto de Eixo</title>
@@ -8,6 +9,19 @@
             body{
                 background-color: whitesmoke;
                 font-size: 20px;
+                overflow: overlay;
+                
+                ::-webkit-scrollbar{
+                    background: transparent;
+            }
+                
+                ::-webkit-scrollbar-thumb{
+                    background: lightgray;
+                    border-radius: 10px;
+            }
+                
+                ::-webkit-scrollbar-corner{
+                    border-radius: 10px;
             }
     
         </style>
@@ -59,7 +73,7 @@
             </div>
        
 
-            <div class="cinza">
+            <div class="cinza" font-size: 20px;>
                 <p >Inclusão dos transtornos:
                     <p >Se caso tiver alguma duvida sobre o conteudo entre em contato com o email abaixo.</p>
                 </p>
