@@ -68,6 +68,7 @@ float: left;
 
 .texto p{
     color: black
+    font-size: clamp(1em, 1em + 1vw, 1.25);
 
 }
 
@@ -83,10 +84,6 @@ float: left;
     display: inline;
 }
 
-.criadoresr p{
-    color:   #000000
-
-}
 
 .branca{
     background-color: white;
@@ -106,6 +103,7 @@ float: left;
 
 .cinza p{
     color: white;
+    font-size: clamp(1em, 1em + 1vw, 1.25);
 
 
 }
@@ -116,6 +114,7 @@ float: left;
 
 .oq p{
     color: #000000;
+    font-size: clamp(1em, 1em + 1vw, 1.25);
 
 }
 
@@ -138,11 +137,13 @@ float: left;
 
 .topico{
     text-align: left;
+    font-size: clamp(1em, 1em + 1vw, 1.25);
 
 }
 
 .conteudo{
     color: black;
+    font-size: clamp(1em, 1em + 1vw, 1.25);
 
 }
 
