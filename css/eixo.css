@@ -68,7 +68,7 @@ float: left;
 
 .texto p{
     color: black
-    font-size: clamp(1em, 1em + 1vw, 1.50);
+    font-size: clamp(1em, 1em + 1vw, 2);
 }
 
 .criadores{
@@ -85,7 +85,7 @@ float: left;
 
 .criadoresr p{
     color:   #000000
-    font-size: clamp(1em, 1em + 1vw, 1.50);
+    font-size: clamp(1em, 1em + 1vw, 2);
 }
 
 .branca{
@@ -106,7 +106,7 @@ float: left;
 
 .cinza p{
     color: white;
-    font-size: clamp(1em, 1em + 1vw, 1.50);
+    font-size: clamp(1em, 1em + 1vw, 2);
 
 }
 
@@ -116,7 +116,7 @@ float: left;
 
 .oq p{
     color: #000000;
-    font-size: clamp(1em, 1em + 1vw, 1.50);
+    font-size: clamp(1em, 1em + 1vw, 2);
 }
 
 .mes{
@@ -138,12 +138,12 @@ float: left;
 
 .topico{
     text-align: left;
-    font-size: clamp(1em, 1em + 1vw, 1.50);
+    font-size: clamp(1em, 1em + 1vw, 2);
 }
 
 .conteudo{
     color: black;
-     font-size: clamp(1em, 1em + 1vw, 1.50);
+     font-size: clamp(1em, 1em + 1vw, 2);
 }
 
 
